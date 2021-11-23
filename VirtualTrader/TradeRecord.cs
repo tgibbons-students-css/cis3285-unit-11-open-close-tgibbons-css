@@ -1,4 +1,6 @@
-﻿namespace VirtualTrader
+﻿//  more comments here
+
+namespace VirtualTrader
 {
     public class TradeRecord
     {
